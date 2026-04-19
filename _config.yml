@@ -1,2 +1,9 @@
 theme: minima
 title: Polyblank Labs
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
