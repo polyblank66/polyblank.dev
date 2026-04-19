@@ -2,7 +2,7 @@
 
 A fast-paced mobile action game with simple, intuitive controls. Play as a mouse on a mission — collect cheese scattered across the map, dodge cunning cats, rack up points, and work your way toward the ultimate goal: the Cheese Factory.
 
-## Screenshots
+# Screenshots
 
 <table>
   <tr>
@@ -12,7 +12,3 @@ A fast-paced mobile action game with simple, intuitive controls. Play as a mouse
     <td><a href="img/gameplay.webp"><img src="img/thumbs/gameplay.webp" alt="Gameplay"></a></td>
   </tr>
 </table>
-
----
-
-[Privacy Policy](privacy-policy)
