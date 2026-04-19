@@ -3,6 +3,10 @@ title: Polyblank Labs
 header_pages:
   - dodger/index.md
 
+exclude:
+  - dodger/img/source
+  - build_tools
+
 defaults:
   - scope:
       path: ""
