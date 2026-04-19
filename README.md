@@ -4,4 +4,4 @@ We are a small indie development collective with a flexible, no-nonsense structu
 
 ## Games
 
-- [Dodger](dodger/)
+- [Dodger](dodger/) — mobile action game: collect cheese, dodge cats, reach the Cheese Factory
