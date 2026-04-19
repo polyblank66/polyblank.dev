@@ -1,6 +1,7 @@
 theme: minima
 title: Polyblank Labs
 header_pages:
+  - README.md
   - dodger/index.md
 
 exclude:
