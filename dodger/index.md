@@ -1,4 +1,3 @@
-# Dodger
 
 A fast-paced mobile action game with simple, intuitive controls. Play as a mouse on a mission — collect cheese scattered across the map, dodge cunning cats, rack up points, and work your way toward the ultimate goal: the Cheese Factory.
 
