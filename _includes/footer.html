@@ -1,5 +1,8 @@
 <footer class="site-footer">
   <div class="wrapper">
     <p>{{ site.title | escape }} &copy; {{ site.time | date: "%Y" }}</p>
+    {% if page.url contains '/dodger' %}
+    <p><a href="{{ '/dodger/privacy-policy' | relative_url }}">Privacy Policy</a></p>
+    {% endif %}
   </div>
 </footer>

@@ -1,5 +1,7 @@
 theme: minima
 title: Polyblank Labs
+header_pages:
+  - dodger/index.md
 
 defaults:
   - scope:
