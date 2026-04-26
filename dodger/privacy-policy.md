@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026-04-16
+**Last updated:** 2026-04-26
 
 **Polyblank Labs** ("we", "our", or "us") is the data controller for the personal data processed in this game.
 
@@ -10,34 +10,54 @@ This Privacy Policy explains how **Dodger** handles information when you use the
 
 ## Information We Collect
 
-We do not directly collect or store personal information from users.
+We do not collect personal information directly from users.
 
-When you sign in using an Epic Games account, authentication is handled through **Epic Online Services** provided by Epic Games.
+When you sign in using an Epic Games account, authentication is performed through Epic Online Services.
 
-During this process, Epic Games may provide us with limited account information necessary to identify your in-game profile, such as:
+As part of this process, we receive limited account information necessary to identify you in the game, such as:
 
 * Epic Games Account ID
 * Epic Games Display Name
 
-We do **not** receive your password, email address, payment information, or other sensitive account data.
+This information is provided when you log in and is used to create and maintain your in-game profile.
+
+We do **not** receive your Epic Games password, email address, payment information, or other sensitive account data.
+
+---
+
+## How Data Is Collected
+
+Data is collected only when you actively sign in to the game using your Epic Games account.
+
+We do not collect data passively, track users across applications, or gather additional personal information outside of this login process.
 
 ---
 
 ## How We Use Information
 
-We use Epic account information **only** for the following purposes:
+We use the received account information only to:
 
-* Authenticating your Epic Games account
-* Creating and managing your in-game identity
-* Enabling online and multiplayer features
+* Authenticate your Epic Games account
+* Create and manage your in-game identity
+* Enable online and multiplayer features, including displaying player rankings in leaderboards
 
-We do not use this data for advertising, marketing, profiling, or any unrelated purposes.
+We do not use this data for advertising, marketing, analytics, profiling, or any unrelated purposes.
+
+---
+
+## How We Share Information
+
+We do not sell, trade, or share your personal information with third parties.
+
+Your information may be visible to other players within the game as part of gameplay features, such as leaderboards (for example, your display name and ranking).
+
+We do not disclose your personal information to external services beyond what is necessary to operate Epic Online Services functionality.
 
 ---
 
 ## Third-Party Services
 
-This game uses **Epic Online Services** provided by Epic Games for authentication and online functionality.
+This game uses Epic Online Services provided by Epic Games for authentication and online functionality.
 
 You can review Epic Games’ privacy policy here:
 https://www.epicgames.com/site/en-US/privacypolicy
@@ -48,7 +68,7 @@ https://www.epicgames.com/site/en-US/privacypolicy
 
 We store only the minimum information required to operate the game, such as your Epic Account ID and associated gameplay data.
 
-We retain this information only as long as necessary to provide game functionality.
+This information is retained for as long as necessary to provide game functionality or until you request deletion.
 
 ---
 
@@ -76,4 +96,4 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 
 If you have any questions or requests regarding this Privacy Policy or your data, contact us at:
 
-**Email:** polyblank66@gmail.com
+**Email:** [polyblank66@gmail.com](mailto:polyblank66@gmail.com)
